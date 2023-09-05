@@ -1,1 +1,6 @@
 Info added from dev1 branch
+<<<<<<< Updated upstream
+=======
+>>>>>>> dev1
+adding values from dev1 branch
+>>>>>>> Stashed changes
